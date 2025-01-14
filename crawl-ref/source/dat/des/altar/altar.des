@@ -246,6 +246,30 @@ MAP
     '''''
 ENDMAP
 
+NAME: lemurrobot_yred_ely_pool
+TAGS: transparent
+MONS: sacred_lotus, withered_plant
+KFEAT: J=altar_yredelemnul
+KFEAT: K=altar_elyvilon
+KFEAT: L=demonic_tree
+MAP
+ttttttt
+t.....t
+t..K..t
+t.....t
+t.www.t
+t.w1w.t
+t.www.t
+@.www.@
+L.www.L
+L.w2w.L
+L.www.L
+L.....L
+L..J..L
+L.....L
+LLLLLLL
+ENDMAP
+
 ##############################################################################
 # II   Altars to minor gods
 #
